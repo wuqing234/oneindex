@@ -7,7 +7,7 @@ Onedrive Directory Index
 直接列onedrive目录，文件直链下载。  
 
 ## demo
-[https://xn.tn](https://xn.tn)  
+[allfree233.ml](https://allfree233.ml/)  
 
 ## change log:  
 18-03-29: 更新直链获取机制、缓存机制，避免频繁访问的token失效  
